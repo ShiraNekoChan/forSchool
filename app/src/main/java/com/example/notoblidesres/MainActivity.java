@@ -25,6 +25,8 @@ public class MainActivity extends AppCompatActivity {
         calendari= findViewById(R.id.calendari);
         horari= findViewById(R.id.horari);
 
+        holiwis
+
         tares.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
 
